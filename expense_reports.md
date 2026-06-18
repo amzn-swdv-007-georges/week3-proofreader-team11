@@ -2,5 +2,3 @@
 
 - Flights: $1,200
 - Lodging: $450
-
-  
